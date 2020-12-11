@@ -29,3 +29,12 @@ There are two helper notebooks used for evaluating the performance of the models
 [CaptioningNewImages](https://github.com/smgbx/Image_Captioning/blob/main/CaptioningNewImages.ipynb) - This notebook allows the user to caption uploaded images.<br>
 
 ### Resources:
+[Where to put the Image in an Image Caption Generator](https://arxiv.org/abs/1703.09137)<br>
+[Image captioning with visual attention](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/text/image_captioning.ipynb)<br>
+[How to Develop a Deep Learning Photo Caption Generator from Scratch](https://machinelearningmastery.com/develop-a-deep-learning-caption-generation-model-in-python/)<br>
+[Create your Own Image Caption Generator using Keras!](https://www.analyticsvidhya.com/blog/2020/11/create-your-own-image-caption-generator-using-keras/)<br>
+[Neural Machine Translation using Bahdanau Attention Mechanism](https://medium.com/analytics-vidhya/neural-machine-translation-using-bahdanau-attention-mechanism-d496c9be30c3)<br>
+[A Comprehensive Guide to Attention Mechanism in Deep Learning for Everyone](https://www.analyticsvidhya.com/blog/2019/11/comprehensive-guide-attention-mechanism-deep-learning/)<br>
+[How to add attention layer to a Bi-LSTM](https://stackoverflow.com/questions/62948332/how-to-add-attention-layer-to-a-bi-lstm/62949137#62949137)<br>
+[How to add Attention on top of a Recurrent Layer (Text Classification) #4962](https://github.com/keras-team/keras/issues/4962)<br>
+
