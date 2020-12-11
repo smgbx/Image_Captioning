@@ -10,7 +10,7 @@ There are three image-captioning models within this project. These models have s
 1) All models utilize [Bahdanau's Attention](https://arxiv.org/abs/1409.0473) mechanism, though it is implemented in varying ways<br>
 2) All of the descriptions are embedding using [GloVe's pretrained embeddings](https://nlp.stanford.edu/projects/glove/) rather than a tokenizer<br>
 3) All of the image features are generated using [InceptionV3](https://keras.io/api/applications/inceptionv3/)<br>
-4) All of the models follow the [merge](https://arxiv.org/abs/1708.02043) model. This means that the RNN is associated only with textual data which is then later feed into a seperate decoder, rather than the RNN serving as a decorder for both the image and textual data <br>
+4) All of the models follow the [merge](https://arxiv.org/abs/1708.02043) model. This means that the RNN is associated only with textual data which is then later feed into a seperate decoder, rather than the RNN serving as a decoder for both the image and textual data <br>
 ![](https://3qeqpr26caki16dnhd19sv6by6v-wpengine.netdna-ssl.com/wp-content/uploads/2017/09/Schematic-of-the-Merge-Model-For-Image-Captioning.png)<br>
 
 The models differ in the ways in which the attention mechanism is implemented. Each model and associated files are seperated into folders:<br>
