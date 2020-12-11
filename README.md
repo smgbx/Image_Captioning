@@ -2,7 +2,8 @@
 A repository for our Python/Deep Learning Group Project - an image caption generator. We used the images and captions from the [Flickr8k](https://github.com/jbrownlee/Datasets/releases) dataset to train our models.<br>
 
 ### Team Members:
-Gabriella Willis, Jimmy Blundell, Shelby Mohar
+Gabriella Willis, Jimmy Blundell, Shelby Mohar<br>
+[Project Video](https://youtu.be/IbWLVABIndI)
 
 ### Components
 #### Image Captioning Models
