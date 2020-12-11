@@ -20,7 +20,7 @@ The models differ in the ways in which the attention mechanism is implemented. E
 
 #### Preparation
 There are two helper notebooks used for preparing the data:<br>
-[GetFlickerImagesFeatures](https://github.com/smgbx/Image_Captioning/blob/main/GetFlickerImagesFeatures.ipynb) - This notebook is used for generating the image features from the dataset using a modified version of the InceptionV3 image classification model. These features are then saved to a file and are be used to train the model. <br>
+[GetFlickerImagesFeatures](https://github.com/smgbx/Image_Captioning/blob/main/GetFlickerImagesFeatures.ipynb) - This notebook is used for generating the image features from the dataset using a modified version of the InceptionV3 image classification model. These features are then saved to a file and are used to train the model. <br>
 [CleanFlickerDescriptions](https://github.com/smgbx/Image_Captioning/blob/main/CleanFlickerDescriptions.ipynb) - This notebook is used to clean and preprocess the list of descriptions. These descriptions are loading into a dictionary in which the key is the image id, and the value is a list of associated captions.<br>
 
 #### Evaluation
