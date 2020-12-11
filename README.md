@@ -25,7 +25,7 @@ There are two helper notebooks used for preparing the data:<br>
 
 #### Evaluation
 There are two helper notebooks used for evaluating the performance of the models:<br>
-[EvaluateModel](https://github.com/smgbx/Image_Captioning/blob/main/EvaluateModel.ipynb) - This notebook is uses two metrics to evaluate the models: the BLEU score, and the METEOR score. It plots the loss/val_loss of the model and demonstrates the captioning ability of the model on images from the test set.<br>
+[EvaluateModel](https://github.com/smgbx/Image_Captioning/blob/main/EvaluateModel.ipynb) - This notebook uses two metrics to evaluate the models: the BLEU score, and the METEOR score. It plots the loss/val_loss of the model and demonstrates the captioning ability of the model on images from the test set.<br>
 [CaptioningNewImages](https://github.com/smgbx/Image_Captioning/blob/main/CaptioningNewImages.ipynb) - This notebook allows the user to caption uploaded images.<br>
 
 ### Resources:
